@@ -1,7 +1,8 @@
 # React + Vite
 
-Project On PassWord Generator 
-FEATURES:
-1. copy password directy from the clipboard
-2. Numbers , Character,Special symbols can be used in order to increase security
-3. Simple and easy to use
+To do List using JavaScript and React.js
+Features:
+1. Stores Todo  permanent  in LocalStorage.
+2. Easy To use UI.
+3. Designed For Desctops,Laptop Display
+   
